@@ -58,7 +58,7 @@ The stock prediction model allows users to input historical data, facilitating t
 A/B testing is a method used to compare two versions (A and B) of a webpage, app, or marketing strategy to determine which performs better in terms of a desired outcome.
 
 # Data:
-Data collected from users randomly assigned to the control group (version A) or the treatment group (version B) during the experiment formed the basis for the A/B testing analysis.
+Data collected from users randomly assigned to the control group (version A) or the treatment group (version B) during the experiment formed the basis for the A/B testing analysis.Data used in this is Cookie_cats.csv
 
 # Methodology:
 Statistical techniques, including hypothesis testing (e.g., t-tests or chi-square tests) or Bayesian inference, were employed to analyze A/B test results and determine statistically significant differences between the two versions.
