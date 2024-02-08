@@ -26,6 +26,7 @@ Various machine learning algorithms, including logistic regression, decision tre
 
 # Data:
 The analysis utilized the renowned Titanic dataset, encompassing information about passengers aboard the Titanic, including survival outcomes.
+In this train.csv and test.csv are the two dataset used for model building and prediction
 
 # Results:
 Performance evaluation metrics, including accuracy, precision, recall, and F1 score, were employed to assess the effectiveness of the classification model in predicting survival outcomes.
